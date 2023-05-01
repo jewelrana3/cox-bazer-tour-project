@@ -1,6 +1,7 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
-import Product from '../Product';
+import Product from '../Product/Product';
+
 
 const Contact = () => {
     const location = useLoaderData()

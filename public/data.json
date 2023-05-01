@@ -4,19 +4,22 @@
           "description": "This is the description of the first item",
           "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
           "rating": 4.5,
-          "dollar_amount": 10.00
+          "dollar_amount": 10.00,
+          "pic":"https://as2.ftcdn.net/v2/jpg/04/63/20/53/1000_F_463205382_SpJoRHGq6Xh1Vjtbl4Zdfz2a3aCEFmsS.jpg"
        },
        {
           "description": "This is the description of the second item",
           "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
           "rating": 3.2,
-          "dollar_amount": 15.50
+          "dollar_amount": 15.50,
+          "pic":"https://as2.ftcdn.net/v2/jpg/04/63/20/53/1000_F_463205382_SpJoRHGq6Xh1Vjtbl4Zdfz2a3aCEFmsS.jpg"
        },
        {
           "description": "This is the description of the third item",
           "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
           "rating": 4.8,
-          "dollar_amount": 20.00
+          "dollar_amount": 20.00,
+          "pic":"https://as2.ftcdn.net/v2/jpg/04/63/20/53/1000_F_463205382_SpJoRHGq6Xh1Vjtbl4Zdfz2a3aCEFmsS.jpg"
        }
     ]
  

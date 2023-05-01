@@ -1,0 +1,19 @@
+.product {
+    margin: 80px;
+}
+
+.doller {
+    margin-left: 60px;
+    color: #000000;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.rating {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.product p {
+    color: #6A6A6A;
+}
