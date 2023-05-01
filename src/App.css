@@ -1,0 +1,10 @@
+.text{
+    margin: 160px 50px;
+}
+.text h1{
+    color: white;
+}
+.text p{
+    margin-bottom: 0;
+    color: white;
+}

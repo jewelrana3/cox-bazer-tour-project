@@ -1,0 +1,23 @@
+
+    [
+       {
+          "description": "This is the description of the first item",
+          "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
+          "rating": 4.5,
+          "dollar_amount": 10.00
+       },
+       {
+          "description": "This is the description of the second item",
+          "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
+          "rating": 3.2,
+          "dollar_amount": 15.50
+       },
+       {
+          "description": "This is the description of the third item",
+          "tag": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, harum!",
+          "rating": 4.8,
+          "dollar_amount": 20.00
+       }
+    ]
+ 
+ 
